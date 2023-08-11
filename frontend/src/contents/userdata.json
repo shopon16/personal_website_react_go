@@ -1,0 +1,176 @@
+{
+  "about":
+    {
+      "shortbio":[
+        "I'm Omar Faruque Swapon, an Embedded Software Engineer with experience in 4G/5G LTE networks and the Internet of Things (IoT). I'm skilled in a variety of programming languages and technologies, including C/C++, Python, Golang, JavaScript, ReactJS, PostgreSQL, Docker, Linux and microcontroller programming.",
+        "I'm working on establishing 4G/5G LTE networks and developing software solutions for IoT projects. I'm fascinated by the potential of IoT to transform the way we live and work, and I'm passionate about utilizing cutting-edge technology to achieve this goal.",
+        "Looking ahead, I'm excited about the possibilities that lie ahead in the field of Industry 4.0. This new era of manufacturing relies on connected devices and advanced data analytics to drive efficiency and productivity, and I believe that my skills and experience in software development and IoT, combined with my passion for cutting-edge technology, will be invaluable in this area.",
+        "On this website, you'll find information about my background, skills, and interests, as well as updates on my latest projects and achievements. I'm always looking for new opportunities to learn and grow, so please feel free to reach out if you have any questions or if you'd like to collaborate on a project. Thank you for visiting, and I look forward to connecting with you!"
+      ],
+      "tech":["IIoT","Machine Learning","LTE","Golang","Docker","Kubernetes"]
+    }
+    
+  ,
+  "social": [
+    {
+      "title": "Github",
+      "class": "fab fa-github",
+      "link": "https://github.com/shopon16"
+    },
+    {
+      "title": "Twitter",
+      "class": "fab fa-twitter",
+      "link": "https://twitter.com/shopon16"
+    },
+     {
+      "title": "Linkedin",
+      "class": "fab fa-linkedin",
+      "link": "https://linkedin.com/shopon16"
+    },
+    {
+      "title": "Facebook",
+      "class": "fab fa-facebook",
+      "link": "https://facebook.com/shopon16"
+    },
+     {
+      "title": "Codepen",
+      "class": "fab fa-codepen",
+      "link": "https://codepen.io/shopon16"
+    }
+
+  ],
+  "technologies":[
+    {
+      "title": "HTML5",
+      "class": "icon fab fa-html5"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-css3-alt"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-js"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-sass"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-git-alt"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-bootstrap"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-react"
+    }
+  ],
+  "projectCard":[
+    {
+      "projectName": "Personal Website",
+      "contents": "lsdfasd",
+      "img":"/images/portfolio.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"ReactJS ",
+      "tag2":"Golang-Gin", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    }
+  ],
+  "morecard":[
+    {
+      "Link1":"https://github.com/Evavic44/Periodic-Table",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://periodic-table-ui.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Periodic Table",
+      "content":"This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+      "keyword":"HTML CSS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    }
+  ],
+  "skills":[
+    {
+      "heading":"IoT (Internet of Things)",
+      "paragraph":"hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+      "iconclass":"fas fa-mobile-alt color-2"
+    },
+    {
+      "heading":"Machine Learning",
+      "paragraph":"hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+      "iconclass":"fa fa-cogs color-1"
+    },
+    {
+      "heading":"4G &amp; 5g LTE",
+      "paragraph":"hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+      "iconclass":"fa fa-phone-square color-3"
+    },
+    {
+      "heading":"Web Development",
+      "paragraph":"hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+      "iconclass":"fa fa-code color-4"
+    }
+  ]
+}

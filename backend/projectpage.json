@@ -1,0 +1,81 @@
+{
+ "projectCard": [
+  {
+   "projectName": "Personal",
+   "contents": "lsdfasd hjjghjglwwwwwwwwwwl llllkjg dsdfadf dfsdfa.jkljzdlkafdsf adsfal.aasdfaf",
+   "img": "/images/portfolio.png",
+   "href": "https://hashnode-clone-sass.netlify.app/",
+   "tag": "ReactJS Golang-Ginwwwww",
+   "link1": "https://github.com/Evavic44/hashnode-clone",
+   "link2": "https://hashnode-clone-sass.netlify.app/",
+   "class": "fab fa-github"
+  },
+  {
+   "projectName": "Perdddsonal Websiteaaaawwwwwwwwwww",
+   "contents": "dfdsf",
+   "img": "/images/windows-10.png",
+   "href": "asdfads",
+   "tag": "dsfdsf",
+   "link1": "dfsdfds",
+   "link2": "dfsdfdsf",
+   "class": "fab fa-github"
+  }
+ ],
+ "morecard": [
+  {
+   "moreLink1": "https://github.com/Evavic44/Periodic-Table",
+   "title1": "Github",
+   "class1": "fab fa-github",
+   "moreLink2": "https://periodic-table-ui.netlify.app/",
+   "title2": "Live Preview",
+   "class2": "fas fa-external-link-alt",
+   "title": "Periodic Table",
+   "content": "This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+   "keyword": "HTML CSS"
+  },
+  {
+   "moreLink1": "https://github.com/Evavic44/Periodic-Table",
+   "title1": "Github",
+   "class1": "fab fa-github",
+   "moreLink2": "https://periodic-table-ui.netlify.app/",
+   "title2": "Live Preview",
+   "class2": "fas fa-external-link-alt",
+   "title": "Periodic Table",
+   "content": "This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+   "keyword": "HTML CSS"
+  },
+  {
+   "moreLink1": "https://github.com/Evavic44/Periodic-Table",
+   "title1": "Github",
+   "class1": "fab fa-github",
+   "moreLink2": "https://periodic-table-ui.netlify.app/",
+   "title2": "Live Preview",
+   "class2": "fas fa-external-link-alt",
+   "title": "Periodic Table",
+   "content": "This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+   "keyword": "HTML CSS"
+  },
+  {
+   "moreLink1": "https://github.com/Evavic44/Periodic-Table",
+   "title1": "Github",
+   "class1": "fab fa-github",
+   "moreLink2": "https://periodic-table-ui.netlify.app/",
+   "title2": "Live Preview",
+   "class2": "fas fa-external-link-alt",
+   "title": "Periodic Table",
+   "content": "This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+   "keyword": "HTML CSS"
+  },
+  {
+   "moreLink1": "https://github.com/Evavic44/Periodic-Table",
+   "title1": "Github",
+   "class1": "fab fa-github",
+   "moreLink2": "https://periodic-table-ui.netlify.app/",
+   "title2": "Live Preview",
+   "class2": "fas fa-external-link-alt",
+   "title": "Periodic Table",
+   "content": "This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+   "keyword": "HTML CSS"
+  }
+ ]
+}

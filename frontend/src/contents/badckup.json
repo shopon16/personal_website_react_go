@@ -1,0 +1,57 @@
+[
+    {
+    "name": "Omar Faruque Swapon",
+    "designation": [
+        "Web Developer",
+        "IoT Engineer",
+        "business enthusiast"
+    ],
+    "headline": [
+        "With a passion for building solutions that enhance human efficiency and productivity"
+    ],
+    "button": "resume",
+    "homepic": "/image/guy.jpg"
+    },
+    {
+        "shortbio": [
+            "I'm Omar Faruque Swapon, an Embedded Software Engineer with experience in 4G/5G LTE networks and the Internet of Things (IoT). I'm skilled in a variety of programming languages and technologies, including C/C++, Python, Golang, JavaScript, ReactJS, PostgreSQL, Docker, Linux and microcontroller programming.",
+            "I'm working on establishing 4G/5G LTE networks and developing software solutions for IoT projects. I'm fascinated by the potential of IoT to transform the way we live and work.",
+            "Looking ahead, I'm excited about the possibilities that lie ahead in the field of Industry 4.0. This new era of manufacturing relies on connected devices and advanced data analytics to drive efficiency and productivity, and I believe that my skills and experience in software development and IoT will be invaluable in this area.",
+            "On this website, you'll find information about my background, skills, and interests, as well as updates on my latest projects and achievements. I'm always looking for new opportunities to learn and grow, so please feel free to reach out if you have any questions or if you'd like to collaborate on a project. Thank you for visiting, and I look forward to connecting with you!"
+        ],
+        "tech": [
+            "IIoT",
+            "Golang",
+            "Docker",
+            "Kubernetes",
+            "LTE",
+            "Machine Learning"
+        ]
+    },
+
+    {
+        "reasontohire": "make reason later",
+        "skills": [
+         {
+          "heading": "IoT (Internet of Things)",
+          "paragraph": "ahello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+          "iconclass": "fas fa-mobile-alt color-2"
+         },
+         {
+          "heading": "Machine Learninga",
+          "paragraph": "hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+          "iconclass": "fa fa-cogs color-1"
+         },
+         {
+          "heading": "4 5g (LTE)",
+          "paragraph": "hello 123 how is gooing456.hello234 how is going 456. hi how are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+          "iconclass": "fa fa-phone-square color-3"
+         },
+         {
+          "heading": "Web Developmentz",
+          "paragraph": "hello 123 how is gooing456.hello234 how is going 456. hi howsss are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+          "iconclass": "fa fa-code color-4aaaa"
+         }
+        ]
+       }
+]

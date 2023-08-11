@@ -1,0 +1,51 @@
+{
+ "clientinfo": [
+  {
+   "name": "omaraaaaaaaaaaaaaaa",
+   "contact": "01676899288",
+   "message": "helloo how are you?"
+  },
+  {
+   "name": "omarrrrnnnnnnnnnn",
+   "contact": "0167689928rrr8",
+   "message": "helloo how arrrre you?"
+  },
+  {
+   "name": "omar faruque swapon",
+   "contact": "linkedin.com",
+   "message": "your work is great."
+  },
+  {
+   "name": "jdnd",
+   "contact": "bdnd",
+   "message": "ndjsms"
+  }
+ ],
+ "myinfo": [
+  {
+   "link": "https://github.com/shopon16",
+   "title": "Github",
+   "className": "fab fa-github"
+  },
+  {
+   "link": "https://twitter.com/shopon16",
+   "title": "Twitter",
+   "className": "fab fa-twitter"
+  },
+  {
+   "link": " https://www.linkedin.com/in/shopon16",
+   "title": "Linkedin",
+   "className": "fab fa-linkedin"
+  },
+  {
+   "link": "https://facebook.com/shopon16",
+   "title": "Facebook",
+   "className": "fab fa-facebook"
+  },
+  {
+   "link": "https://codepen.io/shopon16",
+   "title": "Codepen",
+   "className": "fab fa-codepen"
+  }
+ ]
+}

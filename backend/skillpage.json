@@ -1,0 +1,25 @@
+{
+ "reasontohire": "I always try to learn and adopt new technologies. hard working \u0026 passionate engineer.",
+ "skills": [
+  {
+   "heading": "IoT (Internet of Things)",
+   "paragraph": "I have done several project in the field of IIoT which includes face recognition, industrial motor control, agricultural automation, smart poultry Farm etc. i am experienced with different microcontroller.",
+   "iconclass": "fas fa-mobile-alt color-2"
+  },
+  {
+   "heading": "Machine Learning",
+   "paragraph": "i have done a project related to industry grade face recognition system with esp32 and a server which has very low latency. i also work with deep learning",
+   "iconclass": "fa fa-cogs color-1"
+  },
+  {
+   "heading": "4 \u0026 5g (LTE)",
+   "paragraph": "I have implemented 4g LTE solution with magma open source. also work with open5g, nextepc and other open5g software. also have experience to integrade IMS (VoLTE) with opensource LTE project",
+   "iconclass": "fa fa-phone-square color-3"
+  },
+  {
+   "heading": "Web Development",
+   "paragraph": "4hello 123 how is gooing456.hello234 how is going 456. hi howsss are you i am fine, what is about you. ihtish dou you finish your sworm hell heaven musicc not haram include.",
+   "iconclass": "fa fa-code color-4aaaa"
+  }
+ ]
+}
